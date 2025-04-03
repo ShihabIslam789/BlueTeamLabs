@@ -58,7 +58,7 @@ In the background file you opened there is the variable named "hashesPerSecond" 
 
 # Question 7 
 
-The public kety can be found in the variable miner within the parenthesis
+The public key can be found in the variable miner within the parenthesis
 
 # Question 8
 
