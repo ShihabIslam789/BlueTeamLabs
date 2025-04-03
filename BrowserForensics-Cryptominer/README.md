@@ -1,6 +1,6 @@
 # Cryptominer
 
-![Lab Scenario](https://github.com/ShihabIslam789/BlueTeamLabs/blob/main/BrowserForensics-Cryptominer/Lab%20Senario.png))
+![Lab Scenario](https://github.com/ShihabIslam789/BlueTeamLabs/blob/main/BrowserForensics-Cryptominer/Lab%20Senario.png)
 
 # Step by Step process
 
@@ -42,8 +42,10 @@ you want to extract that and look into it.
 
 ## NOTES
     Keep in mind when clicking on an executable the malware could go off. First thing to do is change the file extension to be visible in the "view tab" in file explorer. rename the file extension to something makes it non-excutable.
+![File Explorer](BrowserForensics-Cryptominer/Javacript file changes.png)
+Now open the background file in notepad and you will find the name of the cryptominer used in the extension.Should look like this
 
-Now open the background file in notepad and you will find the name of the cryptominer used in the extension.
+![Notepad](https://github.com/ShihabIslam789/BlueTeamLabs/blob/main/BrowserForensics-Cryptominer/javascript%20code%20opened%20in%20notepad.png)
 
 # Question 6
 
