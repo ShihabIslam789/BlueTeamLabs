@@ -63,3 +63,10 @@ The public key can be found in the variable miner within the parenthesis
 # Question 8
 
 You can google cryptolootminer and see the twitter page.
+
+### Results
+
+If you followed my guide your answers should look something like this:
+
+![answers](https://github.com/ShihabIslam789/BlueTeamLabs/blob/main/BrowserForensics-Cryptominer/Challenge%20Answers.png)
+
