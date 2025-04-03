@@ -1,6 +1,6 @@
 # Cryptominer
 
-![Lab Scenario]([Lab Senario.png](https://github.com/ShihabIslam789/BlueTeamLabs/blob/main/BrowserForensics-Cryptominer/Lab%20Senario.png))
+![Lab Scenario](https://github.com/ShihabIslam789/BlueTeamLabs/blob/main/BrowserForensics-Cryptominer/Lab%20Senario.png))
 
 # Step by Step process
 
