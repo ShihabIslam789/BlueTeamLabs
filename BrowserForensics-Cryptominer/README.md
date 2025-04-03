@@ -8,7 +8,9 @@
     You want to download the "Browser dump" and place it somewhere you can access easily.
     Also you want to download a "BrowserHistoryViewer" incase the you need the tool for the lab. 
 
-    If you tried opening the Browser Dump file you will need the password stated in the website to decrypt itr for access. Then access the  folder and decrypt the "BrowserData" folder. When opening the folder you will notice the file has "ad1" extension, which means it is a specific container to hold this information.
+    If you tried opening the Browser Dump file you will need the password stated in the website to decrypt itr for access. 
+    Then access the  folder and decrypt the "BrowserData" folder. When opening the folder you will notice the file has "ad1" extension,
+     which means it is a specific container to hold this information.
 
     To open that file download a program called FTK imager. This tools helps with forensics 
     Analysis and can open the "ad1" file. Once downloaded go to "File -> add Evidence Item -> Image File", upload the path the ad1 file. 
@@ -41,8 +43,11 @@ In the code is where the malware is written and can be noticed within the extens
 you want to extract that and look into it.
 
 ## NOTES
-    Keep in mind when clicking on an executable the malware could go off. First thing to do is change the file extension to be visible in the "view tab" in file explorer. rename the file extension to something makes it non-excutable.
-![File Explorer](BrowserForensics-Cryptominer/Javacript file changes.png)
+    Keep in mind when clicking on an executable the malware could go off. First thing to do is change the file extension 
+    to be visible in the "view tab" in file explorer. rename the file extension to something makes it non-excutable.
+![File Explorer](https://github.com/ShihabIslam789/BlueTeamLabs/blob/main/BrowserForensics-Cryptominer/Javacript%20file%20changes.png)
+
+
 Now open the background file in notepad and you will find the name of the cryptominer used in the extension.Should look like this
 
 ![Notepad](https://github.com/ShihabIslam789/BlueTeamLabs/blob/main/BrowserForensics-Cryptominer/javascript%20code%20opened%20in%20notepad.png)
