@@ -1,8 +1,8 @@
 # BlueTeamLabs
 
-    This website is created by Professional Security teams to help other cybserceurity professionals to train, practice and enchance their skills in investigations and offers realistic scenarios in real life. It is designed to provide an hands on environment to sharpen skills like threat inteligence, incident response, OSINT, and digital foresnics.
+    This website is created by Professional Security teams to help other cybserceurity<br> professionals to train, practice and enchance their skills in investigations and offers<br> realistic scenarios in real life. It is designed to provide an hands on <br>environment to sharpen skills like threat inteligence, incident response, OSINT, and digital foresnics.<br>
 
-    In these folders you will find labs that I have practiced and written here is a step by step guide in how I find my solution. I encourage other aspring cybersecurity professionals to practice the lab by themselves first then look at my guide for guidance.
+    In these folders you will find labs that I have practiced and written here is a step by<br> step guide in how I find my solution. I encourage other aspring cybersecurity <br>professionals to practice the lab by themselves first then look at my guide for guidance.<br>
 
  Blueteamlabs home website: (https://blueteamlabs.online/home)
 
